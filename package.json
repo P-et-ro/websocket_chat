@@ -1,5 +1,5 @@
 {
-  "name": "nodejsexample",
+  "name": "websocket_chat",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
